@@ -103,3 +103,10 @@ l=load_to_list("data/temperatures.txt")
 print(l)
 descriptive_statistics(l)
 apply_markup("data/markup.txt")
+
+# When I compared my Week 06 code to the posted answers, I saw that my code was simpler and worked,
+ # but answers had better checks for edge cases, like empty lists or bad input. 
+ # They also explained their steps with more detailed comments, while mine mostly described 
+ # what the code does. I learned that I should add more reasoning in my comments and think about 
+ # testing unusual cases to make my code more neat/organized.
+
